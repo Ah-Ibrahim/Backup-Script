@@ -44,4 +44,4 @@ This should stop backup system, restore newest backup version and gives user a m
 Enter `1` to select previous version, Enter `2` to select next version and finally `3` to exit.
 
 #### For Clearing
-Inside main directory, use `man clear` to clear all working files, backups and stop backup or restore.
+Inside main directory, use `make clear` to clear all working files, backups and stop backup or restore.
